@@ -32,61 +32,23 @@ funzione della dimensione tematica (oggetto del progetto di ricerca e sviluppo) 
 Con riferimento alla dimensione tematica (oggetto del progetto) l’analisi prende in considerazione gli 
 ambiti tematici della Strategia Nazionale di Specializzazione Intelligente come indicati nella tabella 
 seguente: 
-Codice Aree tematiche Traiettorie di sviluppo
-S3_1 
-Industria intelligente e 
-sostenibile, energia e 
-ambiente
-Processi produttivi innovativi ad alta efficienza e per la sostenibilità industriale 
-Sistemi produttivi evolutivi e adattativi per la produzione personalizzata 
-Materiali innovativi ed ecocompatibili
-Tecnologie per biomateriali e prodotti biobased e Bioraffinerie
-Sistemi e tecnologie per le bonifiche di siti contaminati e il decommissioning degli 
-impianti nucleari 
-Sistemi e tecnologie per il water e il waste treatment
-Tecnologie per le smart grid, le fonti rinnovabili e la generazione distribuita 
-S3_2 Salute, alimentazione, 
-qualità della vita
-Active & healthy ageing: tecnologie per l’invecchiamento attivo e l’assistenza 
-domiciliare 
-E-health, diagnostica avanzata, medical devices e mini invasività
-Medicina rigenerativa, predittiva e personalizzata
-Biotecnologie, bioinformatica e sviluppo farmaceutico
-Sviluppo dell’agricoltura di precisione e l’agricoltura del futuro
-Sistemi e tecnologie per il packaging, la conservazione e la tracciabilità e 
-sicurezza delle produzioni alimentari
-Nutraceutica, Nutrigenomica e Alimenti Funzionali
-S3_3 
-Agenda Digitale, Smart 
-Communities, Sistemi di 
-mobilità intelligente
-Sistemi di mobilità urbana intelligente per la logistica e le persone
-Sistemi per la sicurezza dell’ambiente urbano, il monitoraggio ambientale e la 
-prevenzione di eventi critici o di rischio
-Sistemi elettronici “embedded”, reti di sensori intelligenti, internet of things 
-Tecnologie per smart building, efficientamento energetico, sostenibilità 
-ambientale 
-Tecnologie per la diffusione della connessione a Banda Ultra Larga e della web 
-economy 
-S3_4 
-Turismo, Patrimonio 
-culturale e industria della 
-creatività
-Sistemi e applicazioni per il turismo, la fruizione della cultura e l’attrattività del 
-Made in Italy 
-Tecnologie e applicazioni per la conservazione, gestione e valorizzazione dei 
-beni culturali, artistici e paesaggistici
-Tecnologie per il design evoluto e l’artigianato digitale
-Tecnologie per le produzioni audio-video, gaming ed editoria digitale 
-S3_5 Aerospazio e difesa
-Riduzione dell’impatto ambientale (green engine)
-Avionica avanzata nel campo dei network di moduli hw e dell’interfaccia uomomacchina 
-Sistema air traffic management avanzato
-UAV (Unmanned aerial veicle) a uso civile e ULM (ultra-Léger Motorisé) 
-Robotica spaziale, per operazioni di servizio in orbita e per missioni di 
-esplorazione 
-Sistemi per l’osservazione della terra, nel campo delle missioni, degli strumenti e 
-della elaborazione dei dati
-Lanciatori, propulsione elettrica, per un più efficiente accesso allo spazio e veicoli 
-di rientro 
-Sistemi e tecnologie per la cantieristica militar
+|Codice Aree tematiche|Titolo|Descrizione|
+|:---:|---:|:---| 
+|S3_1 |Industria intelligente e sostenibile, energia e ambiente|Processi produttivi innovativi ad alta efficienza e per la sostenibilità industriale Sistemi produttivi evolutivi e adattativi per la produzione personalizzata Materiali innovativi ed ecocompatibili Tecnologie per biomateriali e prodotti biobased e BioraffinerieSistemi e tecnologie per le bonifiche di siti contaminati e il decommissioning degli impianti nucleari|
+|S3_2|Salute, alimentazione, qualità della vita| Active & healthy ageing: tecnologie per l’invecchiamento attivo e l’assistenza domiciliare,E-health, diagnostica avanzata,medical devices e mini invasività,Medicina rigenerativa, predittiva e personalizzata,Biotecnologie, bioinformatica e sviluppo farmaceutico,Sviluppo dell’agricoltura di precisione e l’agricoltura del futuro|
+|S3_3| Agenda Digitale, Smart Communities, Sistemi di mobilità intelligente|Sistemi di mobilità urbana intelligente per la logistica e le persone,Sistemi per la sicurezza dell’ambiente urbano, il monitoraggio ambientale e la prevenzione di eventi critici o di rischio ,Sistemi elettronici “embedded”, reti di sensori intelligenti, internet of things|
+|S3_4|Turismo, Patrimonio culturale e industria della creatività| Sistemi e applicazioni per il turismo, la fruizione della cultura e l’attrattività del Made in Italy ,Tecnologie e applicazioni per la conservazione, gestione e valorizzazione dei beni culturali, artistici e paesaggistici,Tecnologie per il design evoluto e l’artigianato digitale| 
+|S3_5| Aerospazio e difesa|Riduzione dell’impatto ambientale (green engine),Avionica avanzata nel campo dei network di moduli hw e dell’interfaccia uomo macchina ,Sistema air traffic management avanzato,UAV (Unmanned aerial veicle) a uso civile e ULM (ultra-Léger Motorisé) ,Robotica spaziale, per operazioni di servizio in orbita e per missioni di esplorazione| 
+|:---:|---:|:---| 
+|1|manufacturing|Advanced manufacturing solution: robot collaborativi interconnessi e programmabili| 
+|2|Augmented reality|realtà aumentata a supporto dei processi produttivi|
+|3|Simulation|simulazione tra macchine interconnesse per ottimizzare i processi|
+|4|Horizontal/Vertical integration|integrazione dati lungo tutta la catena del valore|
+|5|Industrial Internet of Things|comunicazione multidirezionale tra processi produttivi e prodotti| 
+|6|Cloud Computing|gestione di elevate quantità di dati su sistemi aperti| 
+|7|Cybersecurity| sicurezza durante le operazioni in rete e su sistemi aperti| 
+|8|Big Data & Analytics|Analisi di base dati per ottimizzare prodotti e processi produttivi|
+
+
+
+
